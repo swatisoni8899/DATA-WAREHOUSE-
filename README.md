@@ -84,7 +84,7 @@ The datasets were synthetically generated using Python's **Faker** library and s
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/travel-tourism-data-warehouse.git
+   git clone https://github.com/swatisoni8899/DATA-WAREHOUSE-.git
 
 2. Upload the datasets to dbfs:/FileStore/ on Databricks.
 
