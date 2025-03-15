@@ -95,7 +95,10 @@ The datasets were synthetically generated using Python's **Faker** library and s
 
 4. Query the Delta tables using SparkSQL for analysis and reporting.
 
-
+   
+5. You also access my databrick directly from the link - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3355315970359751/1092239607842669/305967476956713/latest.html
+   
+   
 ## 📊 Project Outputs
 
 - **Normalized Data Layer**: Provides consistent and high-integrity data.
