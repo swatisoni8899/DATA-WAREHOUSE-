@@ -86,12 +86,14 @@ The datasets were synthetically generated using Python's **Faker** library and s
    ```bash
    git clone https://github.com/yourusername/travel-tourism-data-warehouse.git
 
+2. Upload the datasets to dbfs:/FileStore/ on Databricks.
 
+3. Run the provided notebook in Databricks to:
+    Generate normalized tables.
+    Create the dimensional model.
+    Perform data quality checks.
 
-### Run the notebook to:
-- Create normalized tables
-- Implement the star schema with SCD2
-- Perform data quality checks
+4. Query the Delta tables using SparkSQL for analysis and reporting.
 
 
 ## 📊 Project Outputs
@@ -120,3 +122,4 @@ The datasets were synthetically generated using Python's **Faker** library and s
 For questions or collaborations:  
 **Swati Soni**  
 📧 ssoni16@hswk.iit.edu
+
